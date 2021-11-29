@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    int n=0;
+    long n=0;
     cin >> n;
     if(primi(n)){
         cout << "numero primo" << endl;

@@ -5,5 +5,5 @@
 #ifndef ESERCITAZIONE_7_LIB_H
 #define ESERCITAZIONE_7_LIB_H
 //
-bool primi(int &);
+bool primi(long &);
 #endif //ESERCITAZIONE_7_LIB_H
